@@ -5,7 +5,7 @@ const yesBtn = document.getElementById("yes-btn");
 const noBtn = document.getElementById("no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Afferin şimdi isteği kabul et ve yaz bana 😁";
+  question.innerHTML = "Affeein şimdi isteği kabul et ve yaz bana 😁";
   gif.src = "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
 
